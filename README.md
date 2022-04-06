@@ -1,4 +1,4 @@
-## 👋 Hello planet Earth, welcome to my Github Profile! I’m @hyrtx
+## 👋 Hello world, welcome to my Github Profile! I’m @hyrtx
 
 :computer: I'm Data Analyst!
 
