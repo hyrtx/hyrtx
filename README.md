@@ -4,7 +4,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently studying Python and Business Intelligence.
+:books: I’m currently studying Data Analytics.
 
 
 ### Connect with me
