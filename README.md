@@ -1,6 +1,6 @@
 ## 👋 Hello world, welcome to my Github Profile! I’m @hyrtx
 
-:computer: I'm Data Analyst!
+:computer: I'm a Data Analyst!
 
 :house_with_garden: I’m from Brazil.
 
