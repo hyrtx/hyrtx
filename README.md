@@ -1,15 +1,14 @@
 ## 👋 Hello world, welcome to my Github Profile! I’m @hyrtx
 
-:computer: I'm a Data Analyst!
+:computer: I'm a data analyst and my current position is market intelligence specialist.
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Rio de Janeiro, Brazil.
 
-:books: I’m currently studying Data Analytics.
+:books: I’m currently studying Python and Statistics.
 
 
 ### Connect with me
 <a href="https://linkedin.com/in/hyranteixeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hyranteixeira" height="30" width="40" /></a>
-<a href="https://twitter.com/teixeirahyran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teixeirahyran" height="30" width="40" /></a>
 </p>
 
 
