@@ -1,4 +1,4 @@
-## 👋 Hello world, welcome to my Github Profile! I’m @hyrtx
+## 👋 Hey there!
 
 :computer: I'm a data analyst and my current position is market intelligence specialist.
 
