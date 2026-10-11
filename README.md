@@ -18,5 +18,5 @@ If you want to talk about data, analytics, or anything else, reach out on [Linke
 **Fun Facts:**
 * I love trying different kinds of coffee
 * I really like being outdoors at sunset
-* My favorite video game series is Persona (P4 is the best, hands down!)
+* My favorite video game series is Persona (P4 is the best, no doubt)
 * **Hobbies:** Outdoor activities, video games, reading
